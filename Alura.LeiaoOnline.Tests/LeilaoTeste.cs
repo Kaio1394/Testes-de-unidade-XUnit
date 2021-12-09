@@ -10,9 +10,9 @@ namespace Alura.LeilaoOnline.ConsoleApp
     public class LeilaoTeste
     {
         [Theory] //Passando dados de entrada
-        [InlineData(1300, new double[]{1000, 1200, 1210, 1300})]
-        [InlineData(1100, new double[]{1000, 1200, 1210, 1100})]
-        [InlineData(800, new double[] {800})]
+        [InlineData(1300, new double[]{1000, 1200, 1210, 1300})] //Dados de entrada 1
+        [InlineData(1100, new double[]{1000, 1200, 1210, 1100})] //Dados de entrada 2
+        [InlineData(800, new double[] {800})] //Dados de entrada 3
         public void LeitaoCOmTresClientes(
             double valorEsperado,
             double[] ofertas)
