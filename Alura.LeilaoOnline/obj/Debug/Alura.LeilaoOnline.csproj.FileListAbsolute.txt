@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline\obj\Debug\Alura.LeilaoOnline.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline\obj\Debug\Alura.LeilaoOnline.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline\obj\Debug\Alura.LeilaoOnline.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline\bin\Debug\Alura.LeilaoOnline.exe.config
+C:\Users\Usuario\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline\bin\Debug\Alura.LeilaoOnline.exe
+C:\Users\Usuario\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline\bin\Debug\Alura.LeilaoOnline.pdb
+C:\Users\Usuario\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline\obj\Debug\Alura.LeilaoOnline.exe
+C:\Users\Usuario\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline\obj\Debug\Alura.LeilaoOnline.pdb
