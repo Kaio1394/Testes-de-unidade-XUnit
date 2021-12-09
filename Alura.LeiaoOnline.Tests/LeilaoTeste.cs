@@ -27,13 +27,7 @@ namespace Alura.LeilaoOnline.ConsoleApp
             foreach (var valor in ofertas)
             {
                 leilao.RecebeLance(fulano, valor);
-            }
-            
-            leilao.RecebeLance(fulano, 1000);
-            leilao.RecebeLance(kaio, 1200);
-            leilao.RecebeLance(maria, 1210);
-            leilao.RecebeLance(kaio, 1300);
-            
+            }        
 
             //Act - método sob teste
             //Quando o pregão termina.
