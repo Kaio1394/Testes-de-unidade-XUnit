@@ -1,4 +1,4 @@
-# Testes de unidade com XUnit Kaio 1
+# Testes de unidade com XUnit Kaio 12
 
 Repositório criado com o intuito didático para futuras consultas relacionadas a testes de unidade com XUnit.
 Primeiramente é criado uma aplicação de leilão, contendo:
