@@ -1,4 +1,4 @@
-# Testes de unidade
+# Testes de unidade com XUnit
 
 Repositório criado com o intuito didático para futuras consultas relacionadas a testes de unidade com XUnit.
 Primeiramente é criado uma aplicação de leilão, contendo:
